@@ -1,3 +1,61 @@
 {
-    "todo":[]
+    "todo":[
+    {
+        "id": 0,
+      "title": "0-Wow such content!",
+      "time": "zero_cool",
+      "date":"date",
+      "statue":"false"
+    },
+    {
+      "id": 1,
+      "title": "1-Wow such content!",
+      "time": "zero_cool",
+      "date":"date",
+      "statue":"false"
+    },
+    {
+      "id": 2,
+      "title": "2-Wow such content!",
+      "time": "zero_cool",
+      "date":"date",
+      "statue":"false"
+    },
+    {
+      "id": 3,
+      "title": "3-Wow such content!",
+      "time": "zero_cool",
+      "date":"date",
+      "statue":"false"
+    },
+    {
+      "id": 4,
+      "title": "4-Wow such content!",
+      "time": "zero_cool",
+      "date":"date",
+      "statue":"false"
+    }
+  ], 
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+        "gamename": "Taken-3",
+        "gameauthor": "Respawn",
+        "gameprice": "199",
+        "gametags": "FPS",
+        "forkids": true,
+        "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+        "gamerating": "5",
+        "id": 2
+      }
+  ]
 }
