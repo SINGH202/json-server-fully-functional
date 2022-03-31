@@ -1,41 +1,803 @@
 {
-    "todo":[
+  "todo": [
     {
-        "id": 0,
+      "id": 0,
       "title": "First-task",
       "time": "17:28",
-      "date":"2022-03-26",
-      "statue":false
+      "date": "2022-03-26",
+      "statue": false
     },
     {
       "id": 1,
       "title": "Second-task",
       "time": "01:28",
-      "date":"2022-03-29",
-      "statue":false
+      "date": "2022-03-29",
+      "statue": false
     },
     {
       "id": 2,
       "title": "Third-task",
       "time": "07:28",
-      "date":"2022-04-26",
-      "statue":false
+      "date": "2022-04-26",
+      "statue": false
     },
     {
       "id": 3,
       "title": "Fourth-task",
       "time": "12:28",
-      "date":"2022-03-30",
-      "statue":false
+      "date": "2022-03-30",
+      "statue": false
     },
     {
       "id": 4,
       "title": "Fifth-task",
       "time": "17:28",
-      "date":"2022-03-26",
-      "statue":false
+      "date": "2022-03-26",
+      "statue": false
     }
-  ], 
+  ],
+  "location": {
+    "Delhi": {
+      "shopCategory": {
+        "fruits": [
+          {
+            "name": "Shiv-Fruits",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-Fruits",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-Fruits",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-Fruits",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-Fruits",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "vegetable": [
+          {
+            "name": "Shiv-vegetables",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-vegetables",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-vegetables",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-vegetables",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-vegetables",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "homeEssentials": [
+          {
+            "name": "Shiv-store",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-store",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-store",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-store",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-store",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "electronics": [
+          {
+            "name": "Shiv-electronics",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-electronics",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-electronics",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-electronics",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-electronics",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "garage": [
+          {
+            "name": "Shiv-garage",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-garage",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-garage",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-garage",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-garage",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ]
+      }
+    },
+
+    "Banglor": {
+      "shopCategory": {
+        "fruits": [
+          {
+            "name": "Shiv-Fruits",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-Fruits",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-Fruits",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-Fruits",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-Fruits",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "vegetable": [
+          {
+            "name": "Shiv-vegetables",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-vegetables",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-vegetables",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-vegetables",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-vegetables",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "homeEssentials": [
+          {
+            "name": "Shiv-store",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-store",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-store",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-store",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-store",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "electronics": [
+          {
+            "name": "Shiv-electronics",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-electronics",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-electronics",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-electronics",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-electronics",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "garage": [
+          {
+            "name": "Shiv-garage",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-garage",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-garage",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-garage",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-garage",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ]
+      }
+    },
+
+    "Mumbai": {
+      "shopCategory": {
+        "fruits": [
+          {
+            "name": "Shiv-Fruits",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-Fruits",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-Fruits",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-Fruits",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-Fruits",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "vegetable": [
+          {
+            "name": "Shiv-vegetables",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-vegetables",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-vegetables",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-vegetables",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-vegetables",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "homeEssentials": [
+          {
+            "name": "Shiv-store",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-store",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-store",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-store",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-store",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "electronics": [
+          {
+            "name": "Shiv-electronics",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-electronics",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-electronics",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-electronics",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-electronics",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "garage": [
+          {
+            "name": "Shiv-garage",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-garage",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-garage",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-garage",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-garage",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ]
+      }
+    },
+
+    "Kanpur": {
+      "shopCategory": {
+        "fruits": [
+          {
+            "name": "Shiv-Fruits",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-Fruits",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-Fruits",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-Fruits",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-Fruits",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "vegetable": [
+          {
+            "name": "Shiv-vegetables",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-vegetables",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-vegetables",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-vegetables",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-vegetables",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "homeEssentials": [
+          {
+            "name": "Shiv-store",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-store",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-store",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-store",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-store",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "electronics": [
+          {
+            "name": "Shiv-electronics",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-electronics",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-electronics",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-electronics",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-electronics",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ],
+        "garage": [
+          {
+            "name": "Shiv-garage",
+            "rating": 4,
+            "distance": 4,
+            "onlinePayment": true,
+            "discount": 20
+          },
+          {
+            "name": "Rohit-garage",
+            "rating": 3,
+            "distance": 6,
+            "onlinePayment": false,
+            "discount": 5
+          },
+          {
+            "name": "Prem-garage",
+            "rating": 5,
+            "distance": 2,
+            "onlinePayment": true,
+            "discount": 15
+          },
+          {
+            "name": "Ankit-garage",
+            "rating": 5,
+            "distance": 7,
+            "onlinePayment": true,
+            "discount": 10
+          },
+          {
+            "name": "Amar-garage",
+            "rating": 5,
+            "distance": 10,
+            "onlinePayment": true,
+            "discount": 12
+          }
+        ]
+      }
+    }
+  },
+
   "games": [
     {
       "gamename": "Titanfall",
@@ -48,14 +810,14 @@
       "id": 1
     },
     {
-        "gamename": "Taken-3",
-        "gameauthor": "Respawn",
-        "gameprice": "199",
-        "gametags": "FPS",
-        "forkids": true,
-        "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
-        "gamerating": "5",
-        "id": 2
-      }
+      "gamename": "Taken-3",
+      "gameauthor": "Respawn",
+      "gameprice": "199",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 2
+    }
   ]
 }
