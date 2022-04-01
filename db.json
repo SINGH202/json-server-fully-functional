@@ -40,35 +40,35 @@
     "shopCategory": {
       "fruits": [
         {
-          "name": "Shiv-Fruits",
+          "name": "Shiv-Fruits-Delhi",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-Fruits",
+          "name": "Rohit-Fruits-Delhi",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-Fruits",
+          "name": "Prem-Fruits-Delhi",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-Fruits",
+          "name": "Ankit-Fruits-Delhi",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-Fruits",
+          "name": "Amar-Fruits-Delhi",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -77,35 +77,35 @@
       ],
       "vegetable": [
         {
-          "name": "Shiv-vegetables",
+          "name": "Shiv-vegetables-Delhi",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-vegetables",
+          "name": "Rohit-vegetables-Delhi",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-vegetables",
+          "name": "Prem-vegetables-Delhi",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-vegetables",
+          "name": "Ankit-vegetables-Delhi",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-vegetables",
+          "name": "Amar-vegetables-Delhi",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -114,35 +114,35 @@
       ],
       "homeEssentials": [
         {
-          "name": "Shiv-store",
+          "name": "Shiv-store-Delhi",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-store",
+          "name": "Rohit-store-Delhi",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-store",
+          "name": "Prem-store-Delhi",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-store",
+          "name": "Ankit-store-Delhi",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-store",
+          "name": "Amar-store-Delhi",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -151,35 +151,35 @@
       ],
       "electronics": [
         {
-          "name": "Shiv-electronics",
+          "name": "Shiv-electronics-Delhi",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-electronics",
+          "name": "Rohit-electronics-Delhi",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-electronics",
+          "name": "Prem-electronics-Delhi",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-electronics",
+          "name": "Ankit-electronics-Delhi",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-electronics",
+          "name": "Amar-electronics-Delhi",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -188,35 +188,35 @@
       ],
       "garage": [
         {
-          "name": "Shiv-garage",
+          "name": "Shiv-garage-Delhi",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-garage",
+          "name": "Rohit-garage-Delhi",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-garage",
+          "name": "Prem-garage-Delhi",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-garage",
+          "name": "Ankit-garage-Delhi",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-garage",
+          "name": "Amar-garage-Delhi",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -229,35 +229,35 @@
     "shopCategory": {
       "fruits": [
         {
-          "name": "Shiv-Fruits",
+          "name": "Shiv-Fruits-Banglore",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-Fruits",
+          "name": "Rohit-Fruits-Banglore",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-Fruits",
+          "name": "Prem-Fruits-Banglore",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-Fruits",
+          "name": "Ankit-Fruits-Banglore",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-Fruits",
+          "name": "Amar-Fruits-Banglore",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -266,35 +266,35 @@
       ],
       "vegetable": [
         {
-          "name": "Shiv-vegetables",
+          "name": "Shiv-vegetables-Banglore",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-vegetables",
+          "name": "Rohit-vegetables-Banglore",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-vegetables",
+          "name": "Prem-vegetables-Banglore",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-vegetables",
+          "name": "Ankit-vegetables-Banglore",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-vegetables",
+          "name": "Amar-vegetables-Banglore",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -303,35 +303,35 @@
       ],
       "homeEssentials": [
         {
-          "name": "Shiv-store",
+          "name": "Shiv-store-Banglore",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-store",
+          "name": "Rohit-store-Banglore",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-store",
+          "name": "Prem-store-Banglore",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-store",
+          "name": "Ankit-store-Banglore",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-store",
+          "name": "Amar-store-Banglore",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -340,35 +340,35 @@
       ],
       "electronics": [
         {
-          "name": "Shiv-electronics",
+          "name": "Shiv-electronics-Banglore",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-electronics",
+          "name": "Rohit-electronics-Banglore",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-electronics",
+          "name": "Prem-electronics-Banglore",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-electronics",
+          "name": "Ankit-electronics-Banglore",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-electronics",
+          "name": "Amar-electronics-Banglore",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -377,35 +377,35 @@
       ],
       "garage": [
         {
-          "name": "Shiv-garage",
+          "name": "Shiv-garage-Banglore",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-garage",
+          "name": "Rohit-garage-Banglore",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-garage",
+          "name": "Prem-garage-Banglore",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-garage",
+          "name": "Ankit-garage-Banglore",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-garage",
+          "name": "Amar-garage-Banglore",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -418,35 +418,35 @@
     "shopCategory": {
       "fruits": [
         {
-          "name": "Shiv-Fruits",
+          "name": "Shiv-Fruits-Mumbai",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-Fruits",
+          "name": "Rohit-Fruits-Mumbai",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-Fruits",
+          "name": "Prem-Fruits-Mumbai",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-Fruits",
+          "name": "Ankit-Fruits-Mumbai",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-Fruits",
+          "name": "Amar-Fruits-Mumbai",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -455,35 +455,35 @@
       ],
       "vegetable": [
         {
-          "name": "Shiv-vegetables",
+          "name": "Shiv-vegetables-Mumbai",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-vegetables",
+          "name": "Rohit-vegetables-Mumbai",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-vegetables",
+          "name": "Prem-vegetables-Mumbai",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-vegetables",
+          "name": "Ankit-vegetables-Mumbai",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-vegetables",
+          "name": "Amar-vegetables-Mumbai",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -492,35 +492,35 @@
       ],
       "homeEssentials": [
         {
-          "name": "Shiv-store",
+          "name": "Shiv-store-Mumbai",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-store",
+          "name": "Rohit-store-Mumbai",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-store",
+          "name": "Prem-store-Mumbai",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-store",
+          "name": "Ankit-store-Mumbai",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-store",
+          "name": "Amar-store-Mumbai",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -529,35 +529,35 @@
       ],
       "electronics": [
         {
-          "name": "Shiv-electronics",
+          "name": "Shiv-electronics-Mumbai",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-electronics",
+          "name": "Rohit-electronics-Mumbai",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-electronics",
+          "name": "Prem-electronics-Mumbai",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-electronics",
+          "name": "Ankit-electronics-Mumbai",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-electronics",
+          "name": "Amar-electronics-Mumbai",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -566,35 +566,35 @@
       ],
       "garage": [
         {
-          "name": "Shiv-garage",
+          "name": "Shiv-garage-Mumbai",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-garage",
+          "name": "Rohit-garage-Mumbai",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-garage",
+          "name": "Prem-garage-Mumbai",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-garage",
+          "name": "Ankit-garage-Mumbai",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-garage",
+          "name": "Amar-garage-Mumbai",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -607,35 +607,35 @@
     "shopCategory": {
       "fruits": [
         {
-          "name": "Shiv-Fruits",
+          "name": "Shiv-Fruits-Kanpur",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-Fruits",
+          "name": "Rohit-Fruits-Kanpur",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-Fruits",
+          "name": "Prem-Fruits-Kanpur",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-Fruits",
+          "name": "Ankit-Fruits-Kanpur",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-Fruits",
+          "name": "Amar-Fruits-Kanpur",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -644,35 +644,35 @@
       ],
       "vegetable": [
         {
-          "name": "Shiv-vegetables",
+          "name": "Shiv-vegetables-Kanpur",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-vegetables",
+          "name": "Rohit-vegetables-Kanpur",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-vegetables",
+          "name": "Prem-vegetables-Kanpur",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-vegetables",
+          "name": "Ankit-vegetables-Kanpur",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-vegetables",
+          "name": "Amar-vegetables-Kanpur",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -681,35 +681,35 @@
       ],
       "homeEssentials": [
         {
-          "name": "Shiv-store",
+          "name": "Shiv-store-Kanpur",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-store",
+          "name": "Rohit-store-Kanpur",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-store",
+          "name": "Prem-store-Kanpur",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-store",
+          "name": "Ankit-store-Kanpur",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-store",
+          "name": "Amar-store-Kanpur",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -718,35 +718,35 @@
       ],
       "electronics": [
         {
-          "name": "Shiv-electronics",
+          "name": "Shiv-electronics-Kanpur",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-electronics",
+          "name": "Rohit-electronics-Kanpur",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-electronics",
+          "name": "Prem-electronics-Kanpur",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-electronics",
+          "name": "Ankit-electronics-Kanpur",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-electronics",
+          "name": "Amar-electronics-Kanpur",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
@@ -755,35 +755,35 @@
       ],
       "garage": [
         {
-          "name": "Shiv-garage",
+          "name": "Shiv-garage-Kanpur",
           "rating": 4,
           "distance": 4,
           "onlinePayment": true,
           "discount": 20
         },
         {
-          "name": "Rohit-garage",
+          "name": "Rohit-garage-Kanpur",
           "rating": 3,
           "distance": 6,
           "onlinePayment": false,
           "discount": 5
         },
         {
-          "name": "Prem-garage",
+          "name": "Prem-garage-Kanpur",
           "rating": 5,
           "distance": 2,
           "onlinePayment": true,
           "discount": 15
         },
         {
-          "name": "Ankit-garage",
+          "name": "Ankit-garage-Kanpur",
           "rating": 5,
           "distance": 7,
           "onlinePayment": true,
           "discount": 10
         },
         {
-          "name": "Amar-garage",
+          "name": "Amar-garage-Kanpur",
           "rating": 5,
           "distance": 10,
           "onlinePayment": true,
